@@ -17,22 +17,11 @@ Experience the live website: [To-Do App](https://https://yanaovcharyk.github.io/
 - **Font Awesome** – Icons
 - **classnames** – Conditional classNames
 
-### 🔀 Routing & Animations
-- **React Router DOM** – Client-side routing
-- **React Transition Group** – UI animations
-
-### ✅ Testing
-- **Cypress** – E2E testing
-
 ### 🧹 Code Quality
 - **ESLint** – Linting
 - **Prettier** – Code formatter
 - **Stylelint** – Style linter
 - **Airbnb config** – ESLint rules
-- **Mate Scripts** – Dev tools
-
-### 🚀 Deployment
-- **gh-pages** – GitHub Pages deployment
 
 # Getting Started
 1. Clone the repository:  
