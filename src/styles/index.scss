@@ -1,0 +1,37 @@
+iframe {
+  display: none;
+}
+
+body {
+  min-width: 230px;
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+.notification {
+  transition-property: opacity, min-height;
+  transition-duration: 1s;
+  min-height: 36px;
+}
+
+.notification.hidden {
+  min-height: 0;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+@import "./todoapp";
+@import "./todo";
+@import "./filter";
