@@ -1,9 +1,50 @@
-# React TypeScript Starter Pack
+# To-Do App
+To-Do App is a modern web application for managing task lists, built with React and TypeScript. It allows users to create, edit, filter, and delete tasks. The app features a clean, responsive interface and smooth animations during state transitions.
 
-To use this template click `Use this template`
+# Live Demo
+Experience the live website: [To-Do App](https://https://yanaovcharyk.github.io/to-do-app/)
 
-### Available Scripts
+## 🛠️ Technologies Used
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+### ⚙️ Core
+- **React** – UI library
+- **TypeScript** – Static typing
+- **Vite** – Build tool
+- **Sass (SCSS)** – Styling preprocessor
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+### 🎨 UI & Styling
+- **Bulma** – CSS framework
+- **Font Awesome** – Icons
+- **classnames** – Conditional classNames
+
+### 🔀 Routing & Animations
+- **React Router DOM** – Client-side routing
+- **React Transition Group** – UI animations
+
+### ✅ Testing
+- **Cypress** – E2E testing
+
+### 🧹 Code Quality
+- **ESLint** – Linting
+- **Prettier** – Code formatter
+- **Stylelint** – Style linter
+- **Airbnb config** – ESLint rules
+- **Mate Scripts** – Dev tools
+
+### 🚀 Deployment
+- **gh-pages** – GitHub Pages deployment
+
+# Getting Started
+1. Clone the repository:  
+git clone https://github.com/your-username/project-name.git  
+cd project-name  
+
+2. Install dependencies:  
+npm install  
+*or*  
+yarn install  
+
+3. Run the project locally:  
+npm start  
+*or*  
+yarn start
