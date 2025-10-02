@@ -2,7 +2,7 @@
 To-Do App is a modern web application for managing task lists, built with React and TypeScript. It allows users to create, edit, filter, and delete tasks. The app features a clean, responsive interface and smooth animations during state transitions.
 
 # Live Demo
-Experience the live website: [To-Do App](https://https://yanaovcharyk.github.io/to-do-app/)
+Experience the live website: [To-Do App](https://yanaovcharyk.github.io/to-do-app/)
 
 ## 🛠️ Technologies Used
 
